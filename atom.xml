@@ -3,11 +3,11 @@
   <title>台語放送頭</title>
   
   
-  <link href="https://ycj0123.github.io/hong_sang_thau/atom.xml" rel="self"/>
+  <link href="https://hongsangthau.ml/atom.xml" rel="self"/>
   
-  <link href="https://ycj0123.github.io/hong_sang_thau/"/>
+  <link href="https://hongsangthau.ml/"/>
   <updated>2022-12-29T07:54:03.118Z</updated>
-  <id>https://ycj0123.github.io/hong_sang_thau/</id>
+  <id>https://hongsangthau.ml/</id>
   
   <author>
     <name>Iū-thîng</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一個禮拜學好台羅拼音！</title>
-    <link href="https://ycj0123.github.io/hong_sang_thau/20221229/1week-kip/"/>
-    <id>https://ycj0123.github.io/hong_sang_thau/20221229/1week-kip/</id>
+    <link href="https://hongsangthau.ml/20221229/1week-kip/"/>
+    <id>https://hongsangthau.ml/20221229/1week-kip/</id>
     <published>2022-12-29T05:40:41.794Z</published>
     <updated>2022-12-29T07:54:03.118Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="教學" scheme="https://ycj0123.github.io/hong_sang_thau/categories/%E6%95%99%E5%AD%B8/"/>
+    <category term="教學" scheme="https://hongsangthau.ml/categories/%E6%95%99%E5%AD%B8/"/>
     
     
   </entry>
