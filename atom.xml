@@ -3,11 +3,11 @@
   <title>台語放送頭</title>
   
   
-  <link href="https://hongsangthau.ml/atom.xml" rel="self"/>
+  <link href="https://ycj0123.github.io/hst/atom.xml" rel="self"/>
   
-  <link href="https://hongsangthau.ml/"/>
-  <updated>2023-01-21T05:48:02.613Z</updated>
-  <id>https://hongsangthau.ml/</id>
+  <link href="https://ycj0123.github.io/hst/"/>
+  <updated>2023-01-22T12:55:13.961Z</updated>
+  <id>https://ycj0123.github.io/hst/</id>
   
   <author>
     <name>Iū-thîng</name>
@@ -17,9 +17,31 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>淺談台語書寫系統</title>
+    <link href="https://ycj0123.github.io/hst/20230122/taiwanese-writing/"/>
+    <id>https://ycj0123.github.io/hst/20230122/taiwanese-writing/</id>
+    <published>2023-01-22T12:43:52.935Z</published>
+    <updated>2023-01-22T12:55:13.961Z</updated>
+    
+    <content type="html"><![CDATA[<p>復振台語文的時候，最常收到的質疑就是：台語真的有文字嗎？我講台語一輩子怎麼都沒有看過？是不是只是一小撮人搞出來、沒什麼參考價值的東西？實際上台語當然是有文字的，但難以用三言兩語講清楚，所以就用這篇文章稍作整理。我也順便把「不把自己定位為文字」的拼音系統收錄進來，算是所有書寫系統的簡單整理。</p><h2 id="歷史"><a href="#歷史" class="headerlink" title="歷史"></a>歷史</h2><p>首先我們就從歷史上曾經出現過的台語文字來討論起吧。</p><h3 id="漢字"><a href="#漢字" class="headerlink" title="漢字"></a>漢字</h3><h4 id="本字"><a href="#本字" class="headerlink" title="本字"></a>本字</h4><p>漢字的本字其實是一般人最好想像的一種寫方式。比如許多台語華語的共通詞我們就可以直拉推定怎麼寫，例如：</p><blockquote><p>電腦、水果、學校…</p></blockquote><p>在來漢字（荔鏡、歌仔冊、日治文、華語影響）<br>教育部正字</p><h3 id="表音文字："><a href="#表音文字：" class="headerlink" title="表音文字："></a>表音文字：</h3><p>方塊字：假名、諺文、方音<br>羅馬字：白話字、TLPA、台羅、台通</p><p>現行通用<br>漢字、白話字、台羅、漢羅混寫</p><p>現行最適書寫系統之我見<br>較多人看懂、較少歧義<br>漢羅混寫<br>沒有合適漢字：狀聲 外來 phun<br>歧義<br>電腦無法顯示</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;復振台語文的時候，最常收到的質疑就是：台語真的有文字嗎？我講台語一輩子怎麼都沒有看過？是不是只是一小撮人搞出來、沒什麼參考價值的東西？實際上台語當然是有文字的，但難以用三言兩語講清楚，所以就用這篇文章稍作整理。我也順便把「不把自己定位為文字」的拼音系統收錄進來，算是所有書寫</summary>
+      
+    
+    
+    
+    <category term="教學" scheme="https://ycj0123.github.io/hst/categories/%E6%95%99%E5%AD%B8/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>一個禮拜學好台羅拼音！</title>
-    <link href="https://hongsangthau.ml/20221229/1week-kip/"/>
-    <id>https://hongsangthau.ml/20221229/1week-kip/</id>
+    <link href="https://ycj0123.github.io/hst/20221229/1week-kip/"/>
+    <id>https://ycj0123.github.io/hst/20221229/1week-kip/</id>
     <published>2022-12-29T05:40:41.794Z</published>
     <updated>2023-01-21T05:48:02.613Z</updated>
     
@@ -36,7 +58,7 @@
     
     
     
-    <category term="教學" scheme="https://hongsangthau.ml/categories/%E6%95%99%E5%AD%B8/"/>
+    <category term="教學" scheme="https://ycj0123.github.io/hst/categories/%E6%95%99%E5%AD%B8/"/>
     
     
   </entry>
